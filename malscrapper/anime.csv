@@ -1,0 +1,346 @@
+Anime_id,Title,Genres,Type,Episodes,Score,Rank,Members,Popularity,Season,Studio
+1,Cowboy Bebop,"Action,Award Winning,Sci-Fi",TV,26,8.75,#40,"1,761,160",#43,Spring 1998,Sunrise
+5,Cowboy Bebop: Tengoku no Tobira,"Action,Sci-Fi",Movie,1,8.38,#192,"359,135",#601,,Bones
+6,Trigun,"Action,Adventure,Sci-Fi",TV,26,8.22,#317,"722,661",#246,Spring 1998,Madhouse
+7,Witch Hunter Robin,"Action,Drama,Mystery,Supernatural",TV,26,7.25,#2789,"111,497",#1789,Summer 2002,Sunrise
+8,Bouken Ou Beet,"Adventure,Fantasy,Supernatural",TV,52,6.94,#4236,"14,937",#5105,Fall 2004,Toei Animation
+15,Eyeshield 21,Sports,TV,145,7.92,#690,"177,055",#1243,Spring 2005,Gallop
+16,Hachimitsu to Clover,"Comedy,Drama,Romance",TV,24,8.00,#587,"259,109",#858,Spring 2005,J.C.Staff
+17,Hungry Heart: Wild Striker,"Comedy,Slice of Life,Sports",TV,52,7.55,#1558,"24,083",#4205,Fall 2002,Nippon Animation
+18,Initial D Fourth Stage,"Action,Drama",TV,24,8.16,#391,"172,212",#1277,Spring 2004,A.C.G.T.
+19,Monster,"Drama,Mystery,Suspense",TV,74,8.87,#27,"999,647",#144,Spring 2004,Madhouse
+20,Naruto,"Action,Adventure,Fantasy",TV,220,7.98,#614,"2,702,446",#8,Fall 2002,Pierrot
+21,One Piece,"Action,Adventure,Fantasy",TV,Unknown,8.69,#55,"2,151,279",#20,Fall 1999,Toei Animation
+22,Tennis no Ouji-sama,Sports,TV,178,7.86,#795,"177,443",#1239,Fall 2001,Trans Arts
+23,Ring ni Kakero 1,"Action,Sports",TV,12,6.39,#6946,"4,546",#8277,Fall 2004,Toei Animation
+24,School Rumble,"Comedy,Romance",TV,26,7.89,#763,"319,283",#682,Fall 2004,Studio Comet
+25,Sunabouzu,"Action,Adventure,Comedy,Sci-Fi,Ecchi",TV,24,7.38,#2162,"134,253",#1540,Fall 2004,Gonzo
+26,Texhnolyze,"Action,Drama,Sci-Fi",TV,22,7.77,#973,"237,881",#934,Spring 2003,Madhouse
+27,Trinity Blood,"Action,Supernatural",TV,24,7.29,#2561,"179,060",#1225,Spring 2005,Gonzo
+28,Yakitate!! Japan,"Comedy,Gourmet",TV,69,7.91,#719,"95,065",#1988,Fall 2004,Sunrise
+29,Zipang,"Action,Drama,Sci-Fi",TV,26,7.48,#1762,"21,267",#4421,Fall 2004,Studio Deen
+30,Neon Genesis Evangelion,"Action,Avant Garde,Award Winning,Drama,Sci-Fi,Suspense",TV,26,8.35,#209,"1,706,886",#45,Fall 1995,Gainax
+31,Neon Genesis Evangelion: Death & Rebirth,"Drama,Sci-Fi",Movie,1,7.46,#1824,"250,155",#888,,Gainax
+32,Neon Genesis Evangelion: The End of Evangelion,"Avant Garde,Drama,Sci-Fi",Movie,1,8.55,#99,"872,963",#178,,Gainax
+33,Kenpuu Denki Berserk,"Action,Adventure,Drama,Fantasy,Horror",TV,25,8.56,#97,"603,499",#327,Fall 1997,OLM
+43,Koukaku Kidoutai,"Action,Award Winning,Mystery,Sci-Fi,Suspense",Movie,1,8.27,#277,"600,553",#329,,Production I.G
+44,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,"Action,Drama,Romance",OVA,4,8.71,#47,"267,789",#831,,Studio Deen
+45,Rurouni Kenshin: Meiji Kenkaku Romantan,"Action,Adventure,Comedy,Romance",TV,94,8.29,#248,"475,449",#429,Winter 1996,Gallop
+46,Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Chinkonka,Drama,Movie,1,7.55,#1538,"50,558",#2881,,Gallop
+47,Akira,"Action,Adventure,Horror,Sci-Fi,Supernatural",Movie,1,8.16,#387,"798,265",#208,,Tokyo Movie Shinsha
+48,.hack//Sign,"Adventure,Fantasy,Mystery",TV,26,6.95,#4171,"178,165",#1234,Spring 2002,Bee Train
+49,Aa! Megami-sama!,"Comedy,Romance,Supernatural",OVA,5,7.29,#2538,"52,438",#2819,,AIC
+50,Aa! Megami-sama! (TV),"Comedy,Romance,Supernatural",TV,24,7.32,#2402,"155,284",#1387,Winter 2005,AIC
+51,Tenshi Kinryouku,"Action,Drama,Romance,Supernatural",OVA,3,6.27,#7542,"48,123",#2951,,Hal Film Maker
+52,Kidou Tenshi Angelic Layer,"Award Winning,Comedy,Drama,Sci-Fi,Sports",TV,26,7.26,#2727,"57,043",#2694,Spring 2001,Bones
+53,Ai Yori Aoshi,"Comedy,Drama,Romance",TV,24,7.11,#3467,"108,145",#1834,Spring 2002,J.C.Staff
+54,Appleseed (Movie),"Action,Drama,Sci-Fi",Movie,1,7.07,#3662,"71,996",#2360,,Digital Frontier
+55,Arc the Lad,"Action,Adventure,Fantasy,Horror,Sci-Fi",TV,26,6.51,#6296,"15,951",#4993,Spring 1999,Bee Train
+56,Avenger,"Adventure,Fantasy,Sci-Fi",TV,13,5.86,#9430,"17,345",#4836,Fall 2003,Bee Train
+57,Beck,"Comedy,Drama,Slice of Life",TV,26,8.29,#253,"325,108",#668,Fall 2004,Madhouse
+58,Blue Gender,"Adventure,Drama,Horror,Romance,Sci-Fi",TV,26,7.03,#3864,"77,832",#2246,Fall 1999,AIC
+59,Chobits,"Comedy,Drama,Romance,Sci-Fi,Ecchi",TV,26,7.40,#2080,"467,923",#438,Spring 2002,Madhouse
+60,Chrno Crusade,"Action,Romance,Supernatural",TV,24,7.62,#1316,"221,160",#1004,Fall 2003,Gonzo
+61,D.N.Angel,"Action,Comedy,Fantasy,Romance",TV,26,7.17,#3173,"181,870",#1203,Spring 2003,Xebec
+62,D.C.: Da Capo,"Drama,Romance",TV,26,6.72,#5211,"74,682",#2310,Summer 2003,feel.
+63,DearS,"Comedy,Romance,Sci-Fi,Ecchi",TV,12,6.56,#6029,"145,184",#1452,Summer 2004,Daume
+64,Rozen Maiden,"Action,Comedy,Drama",TV,12,7.41,#2058,"198,972",#1115,Fall 2004,Nomad
+65,Rozen Maiden: Träumend,"Action,Comedy,Drama",TV,12,7.62,#1346,"102,693",#1893,Fall 2005,Nomad
+66,Azumanga Daiou The Animation,"Comedy,Slice of Life",TV,26,7.99,#599,"325,109",#667,Spring 2002,J.C.Staff
+67,Basilisk: Kouga Ninpou Chou,"Action,Drama,Romance",TV,24,7.55,#1545,"181,289",#1209,Spring 2005,Gonzo
+68,Black Cat (TV),"Action,Adventure,Sci-Fi",TV,23,7.33,#2385,"263,834",#841,Fall 2005,Gonzo
+69,Cluster Edge,"Action,Fantasy,Sci-Fi",TV,25,6.32,#7275,"10,533",#5880,Fall 2005,Sunrise
+71,Full Metal Panic!,"Action,Comedy,Sci-Fi",TV,24,7.61,#1360,"480,328",#418,Winter 2002,Gonzo
+72,Full Metal Panic? Fumoffu,"Action,Comedy",TV,12,8.03,#549,"288,282",#766,Summer 2003,Kyoto Animation
+73,Full Metal Panic! The Second Raid,Action,TV,13,7.93,#684,"254,610",#872,Summer 2005,Kyoto Animation
+74,Gakuen Alice,"Comedy,Fantasy",TV,26,7.64,#1279,"96,843",#1970,Fall 2004,Group TAC
+75,Soukyuu no Fafner: Dead Aggressor,"Action,Drama,Sci-Fi",TV,25,7.26,#2746,"46,876",#2994,Summer 2004,Xebec
+76,Mahou Shoujo Lyrical Nanoha,"Action,Comedy,Drama",TV,13,7.41,#2051,"100,752",#1915,Fall 2004,Seven Arcs
+77,Mahou Shoujo Lyrical Nanoha A's,"Action,Comedy,Drama",TV,13,7.97,#618,"63,465",#2550,Fall 2005,Seven Arcs
+79,Shuffle!,"Comedy,Drama,Fantasy,Romance,Ecchi",TV,24,7.03,#3855,"272,738",#818,Summer 2005,asread.
+80,Kidou Senshi Gundam,"Action,Drama,Sci-Fi",TV,43,7.76,#985,"125,938",#1628,Spring 1979,Sunrise
+81,Kidou Senshi Gundam: Dai 08 MS Shoutai,"Adventure,Drama,Romance,Sci-Fi",OVA,12,8.01,#576,"79,114",#2223,,Sunrise
+82,Kidou Senshi Gundam 0080: Pocket no Naka no Sensou,"Drama,Sci-Fi",OVA,6,7.96,#634,"56,345",#2717,,Sunrise
+83,Kidou Senshi Gundam: Dai 08 MS Shoutai - Miller's Report,"Drama,Romance,Sci-Fi",Movie,1,6.76,#5000,"13,238",#5366,,Sunrise
+84,Kidou Senshi Gundam 0083: Stardust Memory,"Adventure,Drama,Romance,Sci-Fi",OVA,13,7.25,#2748,"42,289",#3168,,Sunrise
+85,Kidou Senshi Zeta Gundam,"Drama,Romance,Sci-Fi",TV,50,7.89,#757,"70,066",#2401,Spring 1985,Sunrise
+86,Kidou Senshi Gundam ZZ,"Comedy,Drama,Sci-Fi",TV,47,6.67,#5459,"40,289",#3251,Spring 1986,Sunrise
+87,Kidou Senshi Gundam: Gyakushuu no Char,"Drama,Sci-Fi",Movie,1,7.66,#1224,"46,547",#3000,,Sunrise
+88,Kidou Senshi Gundam F91,"Drama,Sci-Fi",Movie,1,6.62,#5710,"30,317",#3772,,Sunrise
+89,Kidou Senshi Victory Gundam,"Drama,Sci-Fi",TV,51,6.74,#5102,"26,208",#4034,Spring 1993,Sunrise
+90,Shin Kidou Senki Gundam Wing,"Action,Drama,Sci-Fi",TV,49,7.69,#1167,"155,178",#1389,Spring 1995,Sunrise
+91,Shin Kidou Senki Gundam Wing: Endless Waltz,"Action,Award Winning,Drama,Sci-Fi",OVA,3,7.74,#1050,"47,067",#2990,,Sunrise
+92,Kidou Shinseiki Gundam X,"Adventure,Drama,Sci-Fi",TV,39,7.33,#2359,"34,642",#3525,Spring 1996,Sunrise
+93,Kidou Senshi Gundam SEED,"Action,Award Winning,Drama,Romance,Sci-Fi",TV,50,7.75,#1008,"163,754",#1326,Fall 2002,Sunrise
+94,Kidou Senshi Gundam SEED Destiny,"Action,Drama,Romance,Sci-Fi",TV,50,7.18,#3119,"103,639",#1882,Fall 2004,Sunrise
+95,Turn A Gundam,"Action,Adventure,Award Winning,Drama,Romance,Sci-Fi",TV,50,7.74,#1045,"45,378",#3041,Spring 1999,Sunrise
+96,Kidou Butouden G Gundam,"Adventure,Comedy,Drama,Romance,Sci-Fi,Sports",TV,49,7.57,#1457,"66,511",#2477,Spring 1994,Sunrise
+97,Last Exile,"Action,Adventure,Sci-Fi",TV,26,7.79,#927,"169,522",#1293,Spring 2003,Gonzo
+98,Mai-HiME,"Action,Fantasy,Girls Love",TV,26,7.42,#1987,"112,901",#1773,Fall 2004,Sunrise
+99,Mai-Otome,"Comedy,Drama,Fantasy",TV,26,7.28,#2602,"50,340",#2886,Fall 2005,Sunrise
+100,Shin Shirayuki-hime Densetsu Prétear,"Comedy,Drama,Fantasy,Romance",TV,13,7.16,#3240,"61,907",#2581,Spring 2001,Hal Film Maker
+101,Air,"Drama,Romance,Supernatural",TV,12,7.28,#2627,"291,555",#756,Winter 2005,Kyoto Animation
+102,Aishiteruze Baby★★,"Comedy,Drama,Romance",TV,26,7.44,#1891,"100,907",#1912,Spring 2004,TMS Entertainment
+103,Akazukin Chacha,"Adventure,Comedy,Fantasy,Romance",TV,74,7.48,#1777,"14,804",#5128,Winter 1994,Gallop
+104,Ayashi no Ceres,"Adventure,Drama,Horror,Romance,Supernatural,Suspense",TV,24,7.19,#3083,"60,479",#2621,Spring 2000,Pierrot
+105,Boys Be...,"Comedy,Romance,Slice of Life",TV,13,6.40,#6878,"22,859",#4289,Spring 2000,Hal Film Maker
+106,Hana yori Dango,"Drama,Romance",TV,51,7.61,#1363,"59,529",#2639,Fall 1996,Toei Animation
+107,Ou Dorobou Jing,"Adventure,Comedy,Fantasy,Sci-Fi",TV,13,7.19,#3068,"36,815",#3426,Spring 2002,Studio Deen
+108,Ou Dorobou Jing in Seventh Heaven,"Adventure,Comedy,Fantasy",OVA,3,7.26,#2756,"12,842",#5429,,Studio Deen
+109,Bakuretsu Tenshi,"Adventure,Comedy,Sci-Fi",TV,24,6.79,#4887,"69,053",#2425,Spring 2004,Gonzo
+110,Chuuka Ichiban!,"Action,Comedy,Drama,Gourmet",TV,52,7.58,#1434,"19,194",#4631,Spring 1997,Nippon Animation
+111,Corrector Yui,"Adventure,Comedy,Sci-Fi",TV,52,6.95,#4182,"15,640",#5021,Spring 1999,Nippon Animation
+112,Chou Henshin Cosprayers,"Action,Adventure,Comedy,Fantasy,Sci-Fi,Ecchi",TV,8,4.82,#12108,"8,537",#6401,Winter 2004,Imagin
+113,Uchuu no Stellvia,"Action,Romance,Sci-Fi",TV,26,7.37,#2212,"23,975",#4211,Spring 2003,Xebec
+114,Sakigake!! Cromartie Koukou,Comedy,TV,26,7.90,#729,"133,935",#1541,Fall 2003,Production I.G
+115,El Hazard: The Alternative World,"Adventure,Comedy,Fantasy",TV,13,6.79,#4898,"11,325",#5702,Winter 1998,AIC
+116,El Hazard: The Wanderers,"Adventure,Comedy,Fantasy,Romance",TV,26,6.93,#4249,"17,414",#4829,Fall 1995,AIC
+117,El Hazard: The Magnificent World,"Adventure,Comedy,Fantasy,Romance",OVA,7,7.26,#2718,"18,762",#4678,,AIC
+118,El Hazard 2: The Magnificent World,"Adventure,Comedy,Fantasy",OVA,4,6.78,#4924,"8,982",#6286,,AIC
+119,Final Approach,"Comedy,Drama,Romance",TV,13,6.52,#6277,"35,042",#3513,Fall 2004,Trinet Entertainment
+120,Fruits Basket,"Drama,Romance,Supernatural",TV,26,7.68,#1178,"523,025",#386,Summer 2001,Studio Deen
+121,Fullmetal Alchemist,"Action,Adventure,Award Winning,Drama,Fantasy",TV,51,8.11,#452,"1,421,761",#76,Fall 2003,Bones
+122,Full Moon wo Sagashite,"Comedy,Drama,Romance,Supernatural",TV,52,7.94,#667,"106,003",#1855,Spring 2002,Studio Deen
+123,Fushigi Yuugi,"Adventure,Fantasy,Romance",TV,52,7.62,#1322,"115,381",#1742,Spring 1995,Pierrot
+124,Fushigi Yuugi: Eikouden,"Adventure,Drama,Fantasy,Romance",OVA,4,6.82,#4764,"17,551",#4816,,Pierrot
+125,Futakoi,"Comedy,Romance",TV,13,6.44,#6676,"34,605",#3527,Fall 2004,Telecom Animation Film
+126,Futakoi Alternative,"Comedy,Drama,Romance",TV,13,6.86,#4579,"30,883",#3738,Spring 2005,ufotable
+127,Gate Keepers,"Action,Comedy,Fantasy,Sci-Fi",TV,24,6.91,#4369,"21,673",#4391,Spring 2000,Gonzo
+128,Gate Keepers 21,"Action,Drama,Sci-Fi",OVA,6,6.74,#5128,"10,382",#5916,,Gonzo
+129,Gensoumaden Saiyuuki,"Action,Adventure,Comedy,Drama,Supernatural",TV,50,7.55,#1553,"53,694",#2780,Spring 2000,Pierrot
+130,Saiyuuki Reload,"Action,Adventure,Comedy,Drama,Supernatural",TV,25,7.37,#2186,"34,143",#3548,Fall 2003,Pierrot
+131,Saiyuuki Reload Gunlock,"Action,Adventure,Comedy,Drama,Supernatural",TV,26,7.37,#2187,"22,927",#4282,Spring 2004,Pierrot
+132,GetBackers,"Action,Mystery,Supernatural",TV,49,7.58,#1443,"119,543",#1697,Fall 2002,Studio Deen
+133,Green Green,"Comedy,Romance,Ecchi",TV,12,6.15,#8093,"115,222",#1745,Summer 2003,Studio Matrix
+134,Gunslinger Girl,"Action,Drama,Sci-Fi",TV,13,7.39,#2123,"184,408",#1189,Fall 2003,Madhouse
+135,Hikaru no Go,"Comedy,Drama,Supernatural",TV,75,8.08,#491,"133,100",#1550,Fall 2001,Pierrot
+136,Hunter x Hunter,"Action,Adventure,Fantasy",TV,62,8.41,#171,"561,897",#355,Fall 1999,Nippon Animation
+137,Hunter x Hunter: Original Video Animation,"Action,Adventure,Fantasy",OVA,8,8.31,#241,"122,161",#1662,,Nippon Animation
+138,Hunter x Hunter: Greed Island,"Action,Adventure,Fantasy",OVA,8,8.18,#376,"149,480",#1423,,Nippon Animation
+139,Hunter x Hunter: Greed Island Final,"Action,Adventure,Fantasy",OVA,14,8.25,#291,"138,876",#1503,,Nippon Animation
+141,Jinki:Extend,Sci-Fi,TV,12,6.10,#8375,"11,363",#5692,Winter 2005,feel.
+142,Kamikaze Kaitou Jeanne,"Action,Drama,Mystery,Romance,Supernatural",TV,44,7.46,#1849,"54,620",#2757,Winter 1999,Toei Animation
+143,Kannazuki no Miko,"Drama,Girls Love,Romance,Supernatural",TV,12,6.81,#4790,"68,956",#2427,Fall 2004,TNK
+144,Kanon,"Drama,Romance,Supernatural",TV,13,7.07,#3681,"64,092",#2535,Winter 2002,Toei Animation
+145,Kareshi Kanojo no Jijou,"Comedy,Drama,Romance",TV,26,7.59,#1400,"219,227",#1015,Fall 1998,Gainax
+146,Kono Minikuku mo Utsukushii Sekai,"Comedy,Drama,Romance,Sci-Fi,Ecchi",TV,12,6.71,#5254,"59,591",#2636,Spring 2004,Gainax
+147,Kimi ga Nozomu Eien,"Drama,Romance",TV,14,7.18,#3120,"138,813",#1504,Fall 2003,Studio Fantasia
+148,Kita e.: Diamond Dust Drops,"Drama,Romance",TV,12,6.56,#6000,"9,012",#6277,Winter 2004,Studio Deen
+149,Loveless,"Action,Boys Love,Drama,Mystery,Supernatural",TV,12,6.76,#5003,"137,490",#1518,Spring 2005,J.C.Staff
+150,Blood+,"Action,Drama,Horror,Mystery,Supernatural",TV,50,7.62,#1315,"366,552",#590,Fall 2005,Production I.G
+151,Re: Cutey Honey,"Action,Comedy,Girls Love,Sci-Fi,Ecchi",OVA,3,7.10,#3520,"27,940",#3919,,Gainax
+152,Solty Rei,"Action,Sci-Fi",TV,24,7.27,#2686,"29,169",#3846,Fall 2005,Gonzo
+153,Juuni Kokuki,"Action,Adventure,Fantasy",TV,45,8.02,#567,"143,401",#1466,Spring 2002,Pierrot
+154,Shaman King,"Action,Adventure,Comedy,Supernatural",TV,64,7.75,#1018,"354,938",#610,Summer 2001,Xebec
+155,X/1999,"Action,Drama,Fantasy,Horror,Sci-Fi,Supernatural",Movie,1,6.57,#5985,"36,674",#3438,,Madhouse
+156,X,"Action,Drama,Fantasy,Romance",TV,24,7.40,#2093,"79,930",#2211,Fall 2001,Madhouse
+157,Mahou Sensei Negima!,"Comedy,Fantasy,Romance,Supernatural,Ecchi",TV,26,6.94,#4211,"137,684",#1514,Winter 2005,Xebec
+158,Maria-sama ga Miteru,"Drama,Girls Love",TV,13,7.29,#2572,"66,916",#2471,Winter 2004,Studio Deen
+159,Boukyaku no Senritsu,"Adventure,Fantasy,Horror,Sci-Fi,Supernatural",TV,24,6.28,#7506,"18,414",#4726,Spring 2004,Gainax
+160,"Ima, Soko ni Iru Boku","Adventure,Drama,Fantasy,Sci-Fi",TV,13,7.61,#1366,"138,188",#1507,Fall 1999,AIC
+161,Peace Maker Kurogane,"Action,Comedy",TV,24,7.30,#2512,"56,553",#2710,Fall 2003,Gonzo
+162,Pita Ten,"Comedy,Fantasy,Romance",TV,26,6.93,#4281,"23,200",#4263,Spring 2002,Madhouse
+163,Power Stone,"Adventure,Comedy,Fantasy",TV,26,6.54,#6149,"7,701",#6696,Spring 1999,Pierrot
+164,Mononoke Hime,"Action,Adventure,Award Winning,Fantasy",Movie,1,8.67,#59,"1,183,687",#105,,Studio Ghibli
+165,RahXephon,"Action,Award Winning,Drama,Mystery,Romance,Sci-Fi",TV,26,7.39,#2110,"115,697",#1739,Winter 2002,Bones
+166,Samurai 7,Sci-Fi,TV,26,7.44,#1934,"127,814",#1607,Summer 2004,Gonzo
+167,Scrapped Princess,"Adventure,Comedy,Drama,Fantasy,Sci-Fi",TV,24,7.38,#2158,"93,061",#2012,Spring 2003,Bones
+168,s.CRY.ed,"Action,Adventure,Drama,Sci-Fi",TV,26,7.36,#2234,"80,866",#2195,Summer 2001,Sunrise
+169,Shingetsutan Tsukihime,"Action,Horror,Mystery,Romance,Supernatural",TV,12,6.82,#4750,"162,500",#1337,Fall 2003,J.C.Staff
+170,Slam Dunk,Sports,TV,101,8.54,#109,"281,283",#795,Fall 1993,Toei Animation
+171,Strange Dawn,"Adventure,Drama,Fantasy",TV,13,6.30,#7424,"5,466",#7674,Summer 2000,Hal Film Maker
+173,Tactics,"Mystery,Supernatural",TV,25,7.20,#3052,"40,208",#3255,Fall 2004,Studio Deen
+174,Tenjou Tenge,"Action,Comedy,Ecchi",TV,24,6.88,#4452,"183,912",#1193,Spring 2004,Madhouse
+175,Tokyo Underground,"Action,Adventure,Romance,Sci-Fi",TV,26,6.59,#5898,"28,791",#3862,Spring 2002,Pierrot
+176,Triangle Heart: Sweet Songs Forever,"Adventure,Romance",OVA,4,6.09,#8407,"6,851",#7002,,Seven Arcs
+177,Tsubasa Chronicle,"Action,Adventure,Fantasy,Romance",TV,26,7.52,#1670,"222,084",#1003,Spring 2005,Bee Train
+178,Ultra Maniac,"Comedy,Romance",TV,26,7.16,#3266,"32,362",#3636,Spring 2003,Ashi Productions
+179,Ultra Maniac OVA,"Comedy,Romance",OVA,1,6.63,#5686,"5,540",#7627,,Ashi Productions
+180,Vandread,"Action,Sci-Fi,Ecchi",TV,13,7.17,#3186,"82,410",#2162,Fall 2000,Gonzo
+181,Vandread: The Second Stage,"Action,Sci-Fi,Ecchi",TV,13,7.39,#2099,"52,749",#2805,Fall 2001,Gonzo
+182,Tenkuu no Escaflowne,"Adventure,Fantasy,Romance",TV,26,7.67,#1219,"150,147",#1415,Spring 1996,Sunrise
+183,Whistle!,Sports,TV,39,7.39,#2100,"14,202",#5206,Spring 2002,Studio Comet
+184,Xenosaga The Animation,"Action,Sci-Fi",TV,12,6.33,#7220,"20,093",#4547,Winter 2005,Toei Animation
+185,Initial D First Stage,"Action,Drama",TV,26,8.33,#217,"350,330",#617,Spring 1998,Gallop
+186,Initial D Second Stage,"Action,Drama",TV,13,8.16,#392,"201,036",#1108,Fall 1999,Pastel
+187,Initial D Third Stage,"Action,Drama,Romance",Movie,1,7.89,#751,"166,491",#1309,,Studio Deen
+188,Gosenzo San'e,"Comedy,Mystery,Supernatural,Hentai",OVA,4,6.04,N/A,"3,013",#9429,,AIC
+189,Love Hina,"Comedy,Romance,Ecchi",TV,24,7.10,#3511,"258,465",#860,Spring 2000,Xebec
+190,Love Hina Again,"Comedy,Drama,Romance,Ecchi",OVA,3,7.21,#2961,"83,928",#2139,,Xebec
+191,Love Hina Christmas Special: Silent Eve,"Comedy,Romance",Special,1,7.31,#2447,"57,301",#2690,,Xebec
+192,Love Hina Haru Special: Kimi Sakura Chiru Nakare!!,"Adventure,Comedy,Romance",Special,1,7.18,#3125,"52,074",#2834,,Xebec
+193,Maburaho,"Comedy,Drama,Romance,Ecchi",TV,24,6.74,#5103,"95,533",#1984,Fall 2003,J.C.Staff
+194,Macross Zero,"Action,Adventure,Sci-Fi",OVA,5,7.51,#1678,"37,969",#3361,,Satelight
+195,Onegai☆Teacher,"Drama,Romance,Sci-Fi",TV,12,7.11,#3496,"172,045",#1280,Winter 2002,Daume
+196,Onegai☆Twins,"Comedy,Drama,Sci-Fi",TV,12,6.82,#4744,"87,490",#2101,Summer 2003,Daume
+197,Rizelmine,"Comedy,Romance,Sci-Fi,Ecchi",TV,24,6.51,#6341,"24,560",#4153,Spring 2002,Madhouse
+198,Speed Grapher,"Action,Mystery",TV,24,7.31,#2463,"109,747",#1812,Spring 2005,Gonzo
+199,Sen to Chihiro no Kamikakushi,"Adventure,Award Winning,Supernatural",Movie,1,8.78,#35,"1,750,227",#44,,Studio Ghibli
+200,Tenshi na Konamaiki,"Comedy,Romance",TV,50,7.43,#1968,"27,119",#3970,Spring 2002,TMS Entertainment
+201,Video Girl Ai,"Comedy,Drama,Romance,Ecchi",OVA,6,7.20,#3028,"28,661",#3866,,Production I.G
+202,Wolf's Rain,"Action,Adventure,Drama,Fantasy,Mystery,Sci-Fi",TV,26,7.80,#916,"318,155",#692,Winter 2003,Bones
+203,Words Worth,"Adventure,Fantasy,Hentai",OVA,5,6.72,N/A,"8,557",#6393,,Arms
+204,Yumeria,"Action,Comedy,Ecchi",TV,12,6.08,#8479,"27,474",#3945,Winter 2004,Studio Deen
+205,Samurai Champloo,"Action,Adventure,Comedy",TV,26,8.51,#123,"1,181,337",#106,Spring 2004,Manglobe
+206,Lodoss-tou Senki: Eiyuu Kishi Den,"Action,Adventure,Drama,Fantasy,Romance",TV,27,7.13,#3370,"31,312",#3714,Spring 1998,AIC
+207,Lodoss-tou Senki,"Action,Adventure,Fantasy",OVA,13,7.36,#2225,"66,913",#2472,,Madhouse
+208,R.O.D: Read or Die,"Action,Adventure,Mystery,Sci-Fi",OVA,3,7.62,#1345,"65,328",#2505,,Studio Deen
+209,R.O.D: The TV,"Action,Adventure,Comedy,Drama,Sci-Fi",TV,26,7.53,#1631,"67,631",#2456,Fall 2003,J.C.Staff
+210,Ranma ½,"Action,Comedy,Fantasy",TV,161,7.76,#987,"244,169",#911,Spring 1989,Studio Deen
+211,Pure Mail,Hentai,OVA,2,6.17,N/A,"3,722",#8792,,Datama Film
+212,Project A-Ko,"Action,Adventure,Comedy,Sci-Fi",Movie,1,6.85,#4614,"19,470",#4605,,APPP
+213,Pia Carrot e Youkoso!!,"Comedy,Hentai",OVA,3,5.94,N/A,"3,567",#8918,,Triple X
+214,Pia Carrot e Youkoso!! 2,"Comedy,Romance,Hentai",OVA,3,6.06,N/A,"2,464",#9974,,Triple X
+215,Pia Carrot e Youkoso!! 2 DX,"Comedy,Romance",OVA,6,6.19,#7917,"2,585",#9840,,Garyuu Studio
+216,Pia Carrot e Youkoso!!: Sayaka no Koi Monogatari,"Comedy,Romance",Movie,1,5.82,#9591,"2,874",#9552,,I-move
+217,Shin Angel,"Comedy,Drama,Romance,Hentai",OVA,5,6.18,N/A,"3,154",#9282,,Arms
+218,Kidou Senkan Nadesico,"Action,Romance,Sci-Fi",TV,26,7.49,#1718,"52,044",#2840,Fall 1996,Xebec
+219,Kidou Senkan Nadesico: The Prince of Darkness,"Action,Award Winning,Drama,Sci-Fi",Movie,1,6.73,#5153,"15,711",#5014,,Xebec
+220,Kuro no Danshou,"Horror,Hentai",OVA,4,5.64,N/A,"2,809",#9618,,JOF
+221,Mezzo Forte,"Action,Comedy,Sci-Fi,Hentai",OVA,2,6.62,N/A,"31,047",#3728,,Arms
+222,Mezzo DSA,"Action,Adventure,Comedy,Mystery,Sci-Fi",TV,13,6.65,#5556,"21,355",#4410,Winter 2004,Arms
+223,Dragon Ball,"Action,Adventure,Comedy,Fantasy",TV,153,7.96,#639,"983,875",#149,Winter 1986,Toei Animation
+225,Dragon Ball GT,"Action,Adventure,Comedy,Fantasy",TV,64,6.48,#6462,"604,891",#325,Winter 1996,Toei Animation
+226,Elfen Lied,"Action,Drama,Horror,Romance,Supernatural",TV,13,7.48,#1782,"1,457,472",#71,Summer 2004,Arms
+227,FLCL,"Action,Avant Garde,Comedy,Sci-Fi",OVA,6,8.03,#548,"782,667",#220,,Gainax
+228,Jigoku Shoujo,"Horror,Mystery,Supernatural",TV,26,7.61,#1367,"346,236",#626,Fall 2005,Studio Deen
+229,Ninin ga Shinobuden,Comedy,TV,12,6.90,#4399,"34,095",#3553,Summer 2004,ufotable
+230,Air Master,"Action,Comedy",TV,27,6.97,#4094,"37,434",#3389,Spring 2003,Toei Animation
+231,Asagiri no Miko,"Action,Comedy,Fantasy,Supernatural",TV,26,6.10,#8360,"7,727",#6686,Summer 2002,Chaos Project
+232,Cardcaptor Sakura,"Adventure,Comedy,Drama,Fantasy,Romance",TV,70,8.16,#388,"418,661",#501,Spring 1998,Madhouse
+233,Daa! Daa! Daa!,"Comedy,Sci-Fi",TV,78,7.66,#1238,"24,521",#4156,Spring 2000,J.C.Staff
+234,Dan Doh!!,"Adventure,Sports",TV,26,6.62,#5737,"4,132",#8532,Spring 2004,Tokyo Kids
+235,Detective Conan,"Adventure,Comedy,Mystery",TV,Unknown,8.17,#381,"332,948",#652,Winter 1996,TMS Entertainment
+236,E's Otherwise,"Adventure,Comedy,Drama,Sci-Fi,Supernatural",TV,26,6.60,#5825,"16,155",#4958,Spring 2003,Pierrot
+237,Koukyoushihen Eureka Seven,"Adventure,Drama,Romance,Sci-Fi",TV,50,8.06,#503,"425,645",#488,Spring 2005,Bones
+238,Rekka no Honoo,"Action,Adventure",TV,42,7.34,#2316,"64,769",#2522,Summer 1997,Pierrot
+239,Gankutsuou,"Award Winning,Drama,Mystery,Sci-Fi,Supernatural,Suspense",TV,24,8.14,#417,"239,745",#922,Fall 2004,Gonzo
+240,Genshiken,"Comedy,Slice of Life",TV,12,7.63,#1307,"173,560",#1268,Fall 2004,Palm Studio
+241,Girls Bravo: First Season,"Comedy,Fantasy,Romance,Ecchi",TV,11,6.38,#6985,"144,526",#1460,Summer 2004,AIC Spirits
+242,Gokusen,"Comedy,Drama,Slice of Life",TV,13,7.41,#2028,"44,096",#3090,Winter 2004,Madhouse
+243,Gravitation,"Boys Love,Comedy",TV,13,6.93,#4253,"117,061",#1721,Fall 2000,Studio Deen
+244,Agatha Christie no Meitantei Poirot to Marple,Mystery,TV,39,6.84,#4646,"7,529",#6757,Summer 2004,OLM
+245,Great Teacher Onizuka,Comedy,TV,43,8.69,#56,"783,912",#217,Summer 1999,Pierrot
+246,Groove Adventure Rave,"Adventure,Comedy,Fantasy,Romance",TV,51,7.22,#2936,"97,616",#1955,Fall 2001,Studio Deen
+247,Harukanaru Toki no Naka de: Hachiyou Shou,"Fantasy,Romance",TV,26,7.00,#4002,"24,114",#4198,Fall 2004,Yumeta Company
+248,Ichigo 100%,"Comedy,Romance,Ecchi",TV,12,6.63,#5679,"112,572",#1778,Spring 2005,Madhouse
+249,InuYasha,"Action,Adventure,Fantasy,Romance",TV,167,7.86,#793,"761,926",#232,Fall 2000,Sunrise
+250,Konjiki no Gash Bell!!,"Adventure,Comedy,Supernatural",TV,150,7.54,#1574,"121,484",#1672,Spring 2003,Toei Animation
+251,Kyou kara Maou!,"Adventure,Comedy,Fantasy",TV,78,7.63,#1290,"109,952",#1810,Spring 2004,Studio Deen
+252,Madlax,"Drama,Mystery,Supernatural",TV,26,7.02,#3903,"40,478",#3244,Spring 2004,Bee Train
+253,Jungle wa Itsumo Hare nochi Guu,"Comedy,Slice of Life",TV,26,7.81,#905,"33,249",#3587,Spring 2001,Shin-Ei Animation
+254,Jungle wa Itsumo Hare nochi Guu Deluxe,"Comedy,Slice of Life",OVA,6,7.79,#941,"12,202",#5528,,Shin-Ei Animation
+255,Jungle wa Itsumo Hare nochi Guu Final,"Award Winning,Comedy,Slice of Life",OVA,7,7.62,#1327,"9,868",#6039,,Shin-Ei Animation
+256,Hoshi no Koe,"Award Winning,Drama,Romance,Sci-Fi",OVA,1,7.12,#3462,"151,451",#1408,,CoMix Wave Films
+257,Ikkitousen,Ecchi,TV,13,6.39,#6916,"158,444",#1361,Summer 2003,J.C.Staff
+258,Hitsuji no Uta,"Drama,Horror",OVA,4,6.15,#8097,"17,267",#4846,,Madhouse
+259,Happy☆Lesson,"Comedy,Romance",OVA,5,6.60,#5830,"11,517",#5670,,Studio Kyuuma
+260,Happy☆Lesson (TV),"Comedy,Drama,Romance",TV,13,6.61,#5807,"27,492",#3944,Spring 2002,Studio Hibari
+261,Happy☆Lesson Advance,"Comedy,Romance",TV,13,6.77,#4980,"14,719",#5139,Summer 2003,Studio Hibari
+262,Happy☆Lesson The Final,"Comedy,Romance",OVA,3,6.76,#5041,"9,381",#6170,,Studio Ranmaru
+263,Hajime no Ippo,Sports,TV,75,8.76,#39,"541,655",#369,Fall 2000,Madhouse
+264,Hajime no Ippo: Champion Road,Sports,Special,1,8.26,#285,"127,775",#1608,,Madhouse
+265,Hajime no Ippo: Mashiba vs. Kimura,Sports,OVA,1,8.23,#314,"102,118",#1899,,Madhouse
+266,Gunparade March: Arata Naru Kougunka,"Action,Drama,Romance,Sci-Fi",TV,12,6.73,#5198,"16,166",#4956,Winter 2003,J.C.Staff
+267,Gungrave,"Action,Drama,Sci-Fi",TV,26,7.83,#858,"183,317",#1197,Fall 2003,Madhouse
+268,Golden Boy,"Adventure,Comedy,Ecchi",OVA,6,8.04,#532,"371,001",#577,,APPP
+269,Bleach,"Action,Adventure,Fantasy",TV,366,7.91,#709,"1,845,334",#40,Fall 2004,Pierrot
+270,Hellsing,"Action,Horror,Supernatural",TV,13,7.49,#1749,"692,246",#264,Fall 2001,Gonzo
+271,Gad Guard,"Action,Adventure,Sci-Fi",TV,26,6.65,#5588,"13,687",#5295,Spring 2003,Gonzo
+272,Noir,"Action,Drama,Mystery",TV,26,7.29,#2577,"109,432",#1816,Spring 2001,Bee Train
+273,Mahoutsukai ni Taisetsu na Koto,Slice of Life,TV,12,6.71,#5257,"26,278",#4030,Winter 2003,J.C.Staff
+274,Kiddy Grade,"Action,Sci-Fi,Ecchi",TV,24,7.19,#3053,"45,036",#3055,Fall 2002,Gonzo
+275,Love♥Love?,"Comedy,Romance,Ecchi",TV,9,5.85,#9467,"21,596",#4395,Spring 2004,Imagin
+276,Mahoromatic: Automatic Maiden,"Comedy,Romance,Sci-Fi,Ecchi",TV,12,7.15,#3286,"61,456",#2593,Fall 2001,Gainax
+277,Mahoromatic: Motto Utsukushii Mono,"Comedy,Drama,Romance,Sci-Fi,Ecchi",TV,14,7.14,#3347,"31,861",#3675,Fall 2002,Gainax
+278,Viewtiful Joe,"Action,Comedy,Sci-Fi",TV,51,6.74,#5142,"11,448",#5679,Fall 2004,Group TAC
+279,Kyougoku Natsuhiko: Kousetsu Hyaku Monogatari,"Fantasy,Horror,Mystery,Supernatural",TV,13,7.10,#3508,"36,506",#3451,Fall 2003,TMS Entertainment
+280,Animal Yokochou,"Adventure,Comedy,Fantasy",TV,51,7.25,#2766,"3,012",#9424,Fall 2005,Gallop
+281,Akane Maniax,"Comedy,Romance",OVA,3,5.73,#9908,"18,702",#4687,,Silver
+282,Angel Heart,"Action,Drama,Mystery,Romance",TV,50,7.25,#2764,"17,297",#4839,Fall 2005,TMS Entertainment
+283,Akage no Anne,Drama,TV,50,7.77,#964,"30,740",#3745,Winter 1979,Nippon Animation
+284,Area 88 (TV),"Action,Drama,Romance",TV,12,6.99,#4009,"13,906",#5255,Winter 2004,Group TAC
+285,Argento Soma,"Action,Adventure,Drama,Sci-Fi",TV,25,6.75,#5052,"26,669",#3995,Fall 2000,Sunrise
+286,B'T X,"Adventure,Sci-Fi",TV,25,7.02,#3882,"11,580",#5655,Spring 1996,TMS Entertainment
+287,Grappler Baki (TV),Sports,TV,24,7.47,#1797,"129,117",#1589,Winter 2001,Group TAC
+288,Bakuten Shoot Beyblade,"Action,Adventure,Comedy,Sports",TV,51,6.76,#5028,"108,771",#1827,Winter 2001,Madhouse
+289,Comic Party,"Comedy,Drama",TV,13,6.58,#5946,"19,345",#4614,Spring 2001,OLM
+290,Seikai no Monshou,"Action,Romance,Sci-Fi",TV,13,7.64,#1267,"50,762",#2871,Winter 1999,Sunrise
+291,D.C.S.S: Da Capo Second Season,"Comedy,Drama,Romance,Supernatural",TV,26,6.95,#4183,"33,134",#3594,Summer 2005,feel.
+292,Dear Boys,"Drama,Sports",TV,26,6.78,#4922,"21,516",#4400,Spring 2003,A.C.G.T.
+293,Di Gi Charat,"Comedy,Fantasy,Sci-Fi",TV,16,6.80,#4840,"23,707",#4228,Fall 1999,Madhouse
+294,Divergence Eve,"Adventure,Comedy,Drama,Sci-Fi",TV,13,5.99,#8872,"12,474",#5492,Summer 2003,Radix
+295,Divergence Eve 2: Misaki Chronicles,"Adventure,Drama,Sci-Fi",TV,13,6.40,#6883,"7,378",#6800,Winter 2004,Radix
+296,Dragon Drive,"Action,Adventure,Comedy,Fantasy,Sci-Fi",TV,38,6.69,#5368,"22,833",#4290,Summer 2002,Madhouse
+297,Grenadier: Hohoemi no Senshi,"Action,Adventure,Comedy,Ecchi",TV,12,6.69,#5373,"54,535",#2760,Fall 2004,Group TAC
+298,.hack//Tasogare no Udewa Densetsu,"Adventure,Comedy,Fantasy",TV,12,6.56,#6014,"66,440",#2478,Winter 2003,Bee Train
+299,.hack//Liminality,Mystery,OVA,4,6.59,#5875,"32,958",#3608,,Bee Train
+300,3x3 Eyes,"Action,Fantasy,Horror,Romance",OVA,4,6.72,#5204,"27,176",#3961,,Toei Animation
+301,Cinderella Boy,"Action,Adventure,Comedy,Mystery",TV,13,6.29,#7447,"7,370",#6804,Summer 2003,Magic Bus
+302,Mirai Shounen Conan,"Adventure,Drama,Sci-Fi",TV,26,8.10,#463,"47,181",#2982,Spring 1978,Nippon Animation
+303,Aa! Megami-sama!: Chichaitte Koto wa Benri da ne,"Comedy,Supernatural",TV,48,6.89,#4429,"21,857",#4375,Spring 1998,OLM
+304,Aa! Megami-sama! Movie,"Comedy,Romance,Supernatural",Movie,1,7.54,#1587,"42,001",#3182,,AIC
+305,Abashiri Ikka,"Action,Comedy",OVA,4,5.28,#11335,"4,558",#8271,,Pierrot
+306,Abenobashi Mahou☆Shoutengai,"Award Winning,Comedy,Fantasy,Ecchi",TV,13,7.23,#2844,"86,405",#2117,Spring 2002,Gainax
+307,Kerokko Demetan,"Comedy,Fantasy",TV,39,6.03,#8693,"1,380",#11629,Winter 1973,Tatsunoko Production
+308,Zettai Shounen,"Drama,Fantasy,Mystery,Sci-Fi",TV,26,6.86,#4596,"19,884",#4565,Spring 2005,Ajia-do
+309,Akahori Gedou Hour Rabuge,Comedy,TV,13,6.13,#8216,"5,892",#7439,Summer 2005,Radix
+310,"Chiisana Obake: Acchi, Kocchi, Socchi","Comedy,Supernatural",TV,50,5.99,#8869,"1,831",#10879,Spring 1991,Pierrot
+311,Ace wo Nerae!,"Drama,Romance,Sports",TV,26,7.10,#3528,"12,602",#5475,Fall 1973,Tokyo Movie Shinsha
+312,Ace wo Nerae! Final Stage,"Drama,Sports",OVA,12,6.84,#4645,"2,345",#10112,,Tokyo Movie Shinsha
+313,Ace wo Nerae! (1979),"Drama,Romance,Sports",Movie,1,6.91,#4359,"4,220",#8484,,Tokyo Movie Shinsha
+314,Ace wo Nerae! 2,"Drama,Sports",OVA,13,7.15,#3301,"3,081",#9361,,TMS Entertainment
+315,Xiao Qian,"Action,Drama,Fantasy,Romance",Movie,1,6.33,#7221,"3,108",#9326,,Triangle Staff
+316,Nageki no Kenkou Yuuryouji,"Comedy,Girls Love,Hentai",OVA,3,6.15,N/A,"5,650",#7559,,AIC
+317,Final Fantasy VII: Advent Children,"Action,Fantasy",Movie,1,7.72,#1097,"209,334",#1064,,Square Enix Visual Works
+318,Hand Maid May,"Comedy,Romance,Sci-Fi,Ecchi",TV,10,6.69,#5374,"29,202",#3843,Summer 2000,TNK
+319,Happy World!,"Comedy,Fantasy,Romance,Ecchi",OVA,3,5.96,#9009,"6,182",#7303,,Zexcs
+320,A Kite,"Action,Drama,Hentai",OVA,2,6.54,N/A,"66,270",#2482,,Arms
+321,Najica Dengeki Sakusen,"Action,Comedy,Sci-Fi,Ecchi",TV,12,5.97,#8960,"14,713",#5140,Fall 2001,Studio Fantasia
+322,Paradise Kiss,"Drama,Romance",TV,12,7.85,#812,"212,542",#1053,Fall 2005,Madhouse
+323,Mousou Dairinin,"Avant Garde,Drama,Mystery,Supernatural,Suspense",TV,13,7.67,#1194,"394,074",#539,Winter 2004,Madhouse
+324,Kidou Keisatsu Patlabor: On Television,"Comedy,Sci-Fi",TV,47,7.67,#1190,"36,279",#3459,Fall 1989,Sunrise
+325,Peach Girl,"Drama,Romance",TV,25,6.94,#4218,"99,650",#1929,Winter 2005,Studio Comet
+326,Petshop of Horrors,"Horror,Mystery,Supernatural",TV,4,7.24,#2807,"64,819",#2520,Winter 1999,Madhouse
+327,Puchi Pri*Yucie,"Comedy,Fantasy",TV,26,7.44,#1933,"14,615",#5156,Fall 2002,Gainax
+328,Piano (TV),"Drama,Romance,Slice of Life",TV,10,5.98,#8913,"8,732",#6349,Fall 2002,OLM
+329,Planetes,"Award Winning,Drama,Romance,Sci-Fi",TV,26,8.26,#281,"242,299",#917,Fall 2003,Sunrise
+330,Midori no Hibi,"Comedy,Drama,Romance,Ecchi",TV,13,7.23,#2888,"162,491",#1336,Spring 2004,Pierrot
+331,Mahoujin Guruguru,"Adventure,Comedy,Fantasy",TV,45,7.61,#1349,"10,551",#5876,Fall 1994,Nippon Animation
+332,Dokidoki♡Densetsu: Mahoujin Guruguru,"Adventure,Comedy,Fantasy",TV,38,7.10,#3544,"3,995",#8626,Spring 2000,Nippon Animation
+333,Mama wa Shougaku 4 Nensei,"Award Winning,Comedy,Drama,Sci-Fi",TV,51,7.41,#2053,"6,411",#7195,Winter 1992,Sunrise
+334,Marmalade Boy,"Comedy,Drama,Romance",TV,76,7.44,#1930,"53,487",#2785,Spring 1994,Toei Animation
+335,Matantei Loki Ragnarok,"Comedy,Mystery,Supernatural",TV,26,7.26,#2736,"37,856",#3370,Spring 2003,Studio Deen
+336,Ginyuu Mokushiroku Meine Liebe,Fantasy,TV,13,6.43,#6747,"12,741",#5447,Fall 2004,Bee Train
+337,Psychic Academy,"Comedy,Romance,Supernatural",TV,24,6.19,#7920,"11,273",#5718,Spring 2002,E&G Films
+338,Versailles no Bara,"Drama,Romance",TV,40,8.33,#226,"91,662",#2031,Fall 1979,Tokyo Movie Shinsha
+339,Serial Experiments Lain,"Avant Garde,Award Winning,Drama,Mystery,Sci-Fi,Supernatural",TV,13,8.08,#486,"712,825",#249,Summer 1998,Triangle Staff
+340,Mutsu Enmei Ryuu Gaiden: Shura no Toki,Action,TV,26,7.55,#1530,"23,821",#4219,Spring 2004,Studio Comet
+341,Spiral: Suiri no Kizuna,"Drama,Mystery",TV,25,7.22,#2913,"51,541",#2850,Fall 2002,J.C.Staff
+342,Starship Operators,"Drama,Sci-Fi",TV,13,6.99,#4042,"15,300",#5057,Winter 2005,J.C.Staff
+343,Tsukuyomi: Moon Phase,"Comedy,Fantasy,Romance",TV,25,6.94,#4200,"74,244",#2316,Fall 2004,Shaft
+344,Futatsu no Spica,"Drama,Sci-Fi,Supernatural",TV,20,7.37,#2205,"10,252",#5945,Fall 2003,Group TAC
+345,Eikoku Koi Monogatari Emma,"Drama,Romance",TV,12,7.62,#1319,"55,427",#2740,Spring 2005,Pierrot
+346,W: Wish,"Drama,Romance,Slice of Life",TV,13,6.14,#8182,"15,269",#5059,Fall 2004,Trinet Entertainment
+347,Wild Arms: Twilight Venom,"Action,Adventure,Fantasy,Sci-Fi",TV,22,6.67,#5458,"7,962",#6611,Fall 1999,Bee Train
+348,Binzume Yousei,"Comedy,Fantasy",TV,13,6.43,#6735,"18,698",#4688,Fall 2003,Xebec
+349,Magical Canan,"Drama,Fantasy,Supernatural",TV,13,6.17,#8004,"5,621",#7577,Winter 2005,AIC ASTA
+350,Ojamajo Doremi,Comedy,TV,51,7.29,#2578,"52,060",#2839,Winter 1999,Toei Animation
+351,Ojamajo Doremi Sharp,Comedy,TV,49,7.42,#1991,"20,546",#4499,Winter 2000,Toei Animation
+352,Motto! Ojamajo Doremi,"Comedy,Fantasy",TV,50,7.44,#1931,"20,357",#4517,Winter 2001,Toei Animation
+Anime_id,Title,Genres,Type,Episodes,Score,Rank,Members,Popularity,Season,Studio
+353,Ojamajo Doremi Dokkaan!,Comedy,TV,51,7.71,#1133,"15,987",#4981,Winter 2002,Toei Animation
+354,UG☆Ultimate Girls,"Comedy,Sci-Fi,Ecchi",TV,12,5.64,#10283,"9,407",#6160,Winter 2005,Studio Matrix
+355,Shakugan no Shana,"Action,Drama,Fantasy,Romance",TV,24,7.46,#1831,"523,753",#385,Fall 2005,J.C.Staff
+356,Fate/stay night,"Action,Fantasy,Romance,Supernatural",TV,24,7.28,#2641,"911,291",#162,Winter 2006,Studio Deen
+357,Bokusatsu Tenshi Dokuro-chan,"Comedy,Ecchi",OVA,4,6.54,#6103,"192,505",#1141,,Hal Film Maker
+358,"Iriya no Sora, UFO no Natsu","Drama,Romance,Sci-Fi",OVA,6,6.93,#4258,"25,289",#4113,,Toei Animation
+359,I'll/CKBC,"Action,Sports",OVA,2,6.20,#7880,"5,414",#7713,,M.S.C
+360,Himiko-den,"Adventure,Drama,Fantasy,Supernatural",TV,12,6.17,#8030,"5,978",#7395,Winter 1999,Group TAC
+361,Memories Off,"Drama,Romance",OVA,3,5.78,#9732,"6,446",#7175,,E&G Films
+362,Memories Off 2nd,"Drama,Romance",OVA,3,6.14,#8134,"3,894",#8691,,Picture Magic
+363,Memories Off 3.5,"Drama,Romance",OVA,4,6.13,#8200,"3,347",#9106,,Picture Magic
+364,Gallery Fake,Mystery,TV,37,7.40,#2084,"14,393",#5177,Winter 2005,TMS Entertainment
+365,Fake,"Boys Love,Comedy,Mystery,Romance",OVA,1,6.50,#6388,"20,648",#4487,,J.C.Staff
+366,AIKa,"Action,Adventure,Comedy,Sci-Fi,Ecchi",OVA,7,5.93,#9139,"33,491",#3579,,Studio Fantasia
+367,Akazukin Chacha OVA,"Comedy,Fantasy",OVA,3,7.01,#3938,"2,667",#9740,,Gallop
