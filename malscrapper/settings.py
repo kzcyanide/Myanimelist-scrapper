@@ -63,7 +63,7 @@ ROBOTSTXT_OBEY = False
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 DOWNLOADER_MIDDLEWARES = {
     #"malscrapper.middlewares.MalscrapperDownloaderMiddleware": 543,
-    "malscrapper.middlewares.ScrapeOpsFakeUserAgentsMiddleware": 400
+    "malscrapper.middlewares.ScrapeOpsFakeUserAgentsMiddleware": 400,
     'scrapeops_scrapy.middleware.retry.RetryMiddleware': 550,
     'scrapy.downloadermiddlewares.retry.RetryMiddleware': None,
 }
